@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HitPauseApp/HitPause-Backend/issues"
   },
-  "homepage": "https://github.com/HitPauseApp/HitPause-Backend#readme"
+  "homepage": "https://github.com/HitPauseApp/HitPause-Backend#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.3"
+  }
 }
